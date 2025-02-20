@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi! My name is Vinícius, I really appreciate the technological world!
+I am currently studying systems development at SENAI SC Brazil, I have experience with computer maintenance and infrastructure and I am always looking for improvement and knowledge!
 
 <!--
 **vini471/vini471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
